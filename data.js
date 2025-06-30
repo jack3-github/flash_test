@@ -3,7 +3,7 @@
 
 const flashcardsData = [
     {
-        questionImage: 'https://picsum.photos/300/201', // テスト用の画像URL2
+        questionImage: './images/5+2.jpg', // テスト用の画像URL2
         answerText: 'りんご',
     },
     {
